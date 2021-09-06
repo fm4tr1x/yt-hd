@@ -7,6 +7,8 @@ Youtube Downloader
 
 :pencil2: pip install pafy
 
+:pencil2: pip install youtube_dl
+
 
 :page_with_curl: Es una herramienta escrita en python usando el módulo pafy de python.
 
@@ -17,6 +19,8 @@ Youtube Downloader
 :pencil2: pip install os-win
 
 :pencil2: pip install pafy
+
+:pencil2: pip install youtube_dl
 
 :page_with_curl: It is a tool written in python using the python pafy module.
 
