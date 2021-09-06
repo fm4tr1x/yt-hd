@@ -12,7 +12,7 @@ Youtube Downloader
 
 :page_with_curl: Insertaremos una URL o Playlist válida de youtube para empezar la descarga del vídeo en su máxima calidad.
 
-:us: Required modules
+:us: Required modules.
 
 :pencil2: pip install os-win
 
