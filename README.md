@@ -1,5 +1,5 @@
 # YT-HD
-Youtube Downloader 
+Youtube Downloader HD.
 
 :es: Módulos requeridos.
 
