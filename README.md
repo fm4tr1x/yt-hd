@@ -1,4 +1,4 @@
-# yt-hd
+# YT-HD
 Youtube Downloader 
 
 :es: Módulos requeridos.
